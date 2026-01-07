@@ -1,0 +1,5 @@
+{
+  "name": "EO 14117 数据阈值评估",
+  "description": "An internal compliance tool for tracking and evaluating bulk sensitive personal data thresholds under U.S. DOJ EO 14117.",
+  "requestFramePermissions": []
+}
